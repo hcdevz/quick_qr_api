@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "banner_active": true,
-    "inters_active": true,
+    "version": "1.1.0",
+    "banner_active": false,
+    "inters_active": false,
     "inters_limit": 30
 }
